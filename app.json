@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "EngCompAlert",
+    "slug": "EngCompAlert",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": ["expo-notifications"],
+    "android": {
+      "package": "com.engcomp.alert"
+    },
+    "ios": {
+      "bundleIdentifier": "com.engcomp.alert"
+    }
+  }
+}
